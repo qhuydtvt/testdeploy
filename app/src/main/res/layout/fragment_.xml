@@ -8,6 +8,6 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text=“Test 5:54AM” />
+        android:text=“Test 6:01AM” />
 
 </FrameLayout>
